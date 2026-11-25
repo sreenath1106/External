@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Virtual Event Management</title>
+    <title>Virtual Event Management by John Doe</title>
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f5f6fa; text-align: center; padding: 50px;">
 
